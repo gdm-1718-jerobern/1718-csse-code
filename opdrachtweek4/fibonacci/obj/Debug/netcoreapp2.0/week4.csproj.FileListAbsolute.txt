@@ -1,0 +1,30 @@
+D:/MMP/2de schijf/csse/week4/fibonacci/bin/Debug/netcoreapp2.0/week4.deps.json
+D:/MMP/2de schijf/csse/week4/fibonacci/bin/Debug/netcoreapp2.0/week4.runtimeconfig.json
+D:/MMP/2de schijf/csse/week4/fibonacci/bin/Debug/netcoreapp2.0/week4.runtimeconfig.dev.json
+D:/MMP/2de schijf/csse/week4/fibonacci/bin/Debug/netcoreapp2.0/week4.dll
+D:/MMP/2de schijf/csse/week4/fibonacci/bin/Debug/netcoreapp2.0/week4.pdb
+D:/MMP/2de schijf/csse/week4/fibonacci/obj/Debug/netcoreapp2.0/week4.csproj.CoreCompileInputs.cache
+D:/MMP/2de schijf/csse/week4/fibonacci/obj/Debug/netcoreapp2.0/week4.AssemblyInfoInputs.cache
+D:/MMP/2de schijf/csse/week4/fibonacci/obj/Debug/netcoreapp2.0/week4.AssemblyInfo.cs
+D:/MMP/2de schijf/csse/week4/fibonacci/obj/Debug/netcoreapp2.0/week4.dll
+D:/MMP/2de schijf/csse/week4/fibonacci/obj/Debug/netcoreapp2.0/week4.pdb
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.csproj.CoreCompileInputs.cache
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.AssemblyInfoInputs.cache
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.AssemblyInfo.cs
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.dll
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.pdb
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.deps.json
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.runtimeconfig.json
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.runtimeconfig.dev.json
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.dll
+D:/MMP/2de schijf/csse/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.pdb
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.deps.json
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.runtimeconfig.json
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.runtimeconfig.dev.json
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.dll
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/week4.pdb
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.csproj.CoreCompileInputs.cache
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.AssemblyInfoInputs.cache
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.AssemblyInfo.cs
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.dll
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/week4.pdb

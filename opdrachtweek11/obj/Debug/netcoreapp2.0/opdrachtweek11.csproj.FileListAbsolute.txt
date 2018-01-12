@@ -1,0 +1,30 @@
+C:/Users/natur/Desktop/opdrachtweek11/week11b/bin/Debug/netcoreapp2.0/opdrachtweek11.deps.json
+C:/Users/natur/Desktop/opdrachtweek11/week11b/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.json
+C:/Users/natur/Desktop/opdrachtweek11/week11b/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.dev.json
+C:/Users/natur/Desktop/opdrachtweek11/week11b/bin/Debug/netcoreapp2.0/opdrachtweek11.dll
+C:/Users/natur/Desktop/opdrachtweek11/week11b/bin/Debug/netcoreapp2.0/opdrachtweek11.pdb
+C:/Users/natur/Desktop/opdrachtweek11/week11b/obj/Debug/netcoreapp2.0/opdrachtweek11.csproj.CoreCompileInputs.cache
+C:/Users/natur/Desktop/opdrachtweek11/week11b/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfoInputs.cache
+C:/Users/natur/Desktop/opdrachtweek11/week11b/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfo.cs
+C:/Users/natur/Desktop/opdrachtweek11/week11b/obj/Debug/netcoreapp2.0/opdrachtweek11.dll
+C:/Users/natur/Desktop/opdrachtweek11/week11b/obj/Debug/netcoreapp2.0/opdrachtweek11.pdb
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.deps.json
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.json
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.dev.json
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.dll
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.pdb
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.csproj.CoreCompileInputs.cache
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfoInputs.cache
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfo.cs
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.dll
+D:/OneDrive - Arteveldehogeschool/Code/1718-csse-code/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.pdb
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.deps.json
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.json
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.runtimeconfig.dev.json
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.dll
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/bin/Debug/netcoreapp2.0/opdrachtweek11.pdb
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.csproj.CoreCompileInputs.cache
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfoInputs.cache
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.AssemblyInfo.cs
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.dll
+/Users/jeroen/Downloads/1718-csse-code-master 5/opdrachtweek11/obj/Debug/netcoreapp2.0/opdrachtweek11.pdb

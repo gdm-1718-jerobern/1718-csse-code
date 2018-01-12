@@ -1,0 +1,20 @@
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/bin/Debug/netcoreapp2.0/opdracht tafels.deps.json
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/bin/Debug/netcoreapp2.0/opdracht tafels.runtimeconfig.json
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/bin/Debug/netcoreapp2.0/opdracht tafels.runtimeconfig.dev.json
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/bin/Debug/netcoreapp2.0/opdracht tafels.dll
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/bin/Debug/netcoreapp2.0/opdracht tafels.pdb
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/obj/Debug/netcoreapp2.0/opdracht tafels.csproj.CoreCompileInputs.cache
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/obj/Debug/netcoreapp2.0/opdracht tafels.AssemblyInfoInputs.cache
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/obj/Debug/netcoreapp2.0/opdracht tafels.AssemblyInfo.cs
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/obj/Debug/netcoreapp2.0/opdracht tafels.dll
+D:/MMP/2de schijf/csse/week 2/opdracht tafels/obj/Debug/netcoreapp2.0/opdracht tafels.pdb
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/bin/Debug/netcoreapp2.0/opdracht tafels.deps.json
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/bin/Debug/netcoreapp2.0/opdracht tafels.runtimeconfig.json
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/bin/Debug/netcoreapp2.0/opdracht tafels.runtimeconfig.dev.json
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/bin/Debug/netcoreapp2.0/opdracht tafels.dll
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/bin/Debug/netcoreapp2.0/opdracht tafels.pdb
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/obj/Debug/netcoreapp2.0/opdracht tafels.csproj.CoreCompileInputs.cache
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/obj/Debug/netcoreapp2.0/opdracht tafels.AssemblyInfoInputs.cache
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/obj/Debug/netcoreapp2.0/opdracht tafels.AssemblyInfo.cs
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/obj/Debug/netcoreapp2.0/opdracht tafels.dll
+/Users/jeroen/Downloads/1718-csse-code-master/opdrachtweek3/obj/Debug/netcoreapp2.0/opdracht tafels.pdb
